@@ -22,7 +22,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/sumithemmadi/truecallerjs.git"
+        "url": "git+https://github.com/yatharth240/task.git"
     },
     "keywords": [
         "truecallerjs",
@@ -44,10 +44,4 @@
         "JsonToYaml",
         "Details"
     ],
-    "author": "sumithemmadi",
-    "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/sumithemmadi/truecallerjs/issues"
-    },
-    "homepage": "https://github.com/sumithemmadi/truecallerjs#readme"
-}
+
